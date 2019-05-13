@@ -1,1 +1,1 @@
-This place is for projects which I have done.
+This place is designated for projects which I have done.
