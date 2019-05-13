@@ -1,0 +1,44 @@
+# Blender MTL File: 'chevrolet-silverado-1986.blend'
+# Material Count: 4
+
+newmtl 03___Default
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl 09___Default
+Ns 9.803922
+Ka 0.588200 0.588200 0.588200
+Kd 0.588200 0.588200 0.588200
+Ks 0.621000 0.621000 0.621000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.450000
+illum 2
+
+newmtl Standard_1.001
+Ns 9.803922
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd D:\LearningOpenGL\Projekt\projekt\resources\tdg\3D Models\jeep\Untitled-1.psd
+map_Ka D:\\LearningOpenGL\\Projekt\\projekt\\resources\\tdg\\3D Models\\jeep\\Untitled-1.psd
+
+newmtl Standard_2.001
+Ns 7.843137
+Ka 0.122867 0.122867 0.122867
+Kd 0.000000 0.125500 0.243100
+Ks 0.396000 0.396000 0.396000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
